@@ -173,7 +173,7 @@ https://samiullah12345678.github.io/Portfolio-Website-design.github.io
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/Katended)
+- GitHub: [@githubhandle](https://github.com/ david Katended)
 
 
 
