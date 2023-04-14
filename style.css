@@ -1,5 +1,63 @@
+@font-face {
+    font-family: Poppins;
+    src: url(fonts/Poppins-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: Poppins-light;
+    src: url(fonts/Poppins-Light.ttf);
+  }
+  
+  @font-face {
+    font-family: Poppins-extrabold;
+    src: url(fonts/Poppins-ExtraBold.ttf);
+  }
+  
+  @font-face {
+    font-family: Poppins-semibold;
+    src: url(fonts/Poppins-SemiBold.ttf);
+  }
+
 .navbar-nav{
 margin: 0%;
 padding: 0%;
 align-items: center;
 }
+
+.card-intro {
+    background: url('./assets/header-shapes-desktop.png') 0 50px no-repeat;
+    background-size: 90% auto;
+    width:100%;
+    border-bottom-left-radius: 10% 10%;      
+    padding-top: 15%;
+    align-items: center;
+}
+
+
+.card-body > h1 {
+    font-size: 60px;
+    font-family: Poppins-extrabold, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0.32em;
+    padding-right: 1%;
+  }
+
+  
+.card-body > p{
+    text-decoration: solid;
+    font-size: 17px;
+  }
+
+  ul{ 
+    
+    width: 100%;
+    text-align: center;
+    margin-right: 33%;
+}
+
+  ul li {
+    display: inline;
+    padding: 10px;
+    width: 100%;
+    
+  }
